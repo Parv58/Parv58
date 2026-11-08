@@ -11,8 +11,8 @@
 ### 🚀 About Me
 
 - 🎓 Computer Science undergrad at **LNM Institute of Information Technology (LNMIIT)**, Jaipur — Batch of 2029
-- 🏆 Selected as 1 of 6 members of **Cybros**, LNMIIT's Competitive Programming Club, through a competitive selection process
-- 💻 600+ problems solved across Codeforces, LeetCode, GeeksforGeeks & CSES
+- 🏆 Selected as 1 of few members of **Cybros**, LNMIIT's Competitive Programming Club, through a competitive selection process
+- 💻 700+ problems solved across Codeforces, LeetCode, GeeksforGeeks & CSES
 - 🌱 Currently sharpening: Data Structures & Algorithms, Backend Development, and AI/ML fundamentals
 - 🎯 Aiming for **SDE roles** — AI/ML is a strong secondary interest
 - 🤝 Open-source contributor via GSSoC (GirlScript Summer of Code)
